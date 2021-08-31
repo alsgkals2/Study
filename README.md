@@ -1,5 +1,5 @@
-# This is for Coding skill UP !
+## This is for Coding skill UP !
 Programming Challenges - previous stutdy code ( backup, C++ )
 
-## Things to do
+### Things to do
 Code reviewing about overall codes
