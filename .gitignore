@@ -1,0 +1,22 @@
+
+*.vcxproj
+*.filters
+*.tlog
+*.enc
+Programming Challenges/2577/Debug/2577.log
+*.pdb
+*.idb
+Programming Challenges/2dTo3d_test/.vs/2dTo3d_test/v14/.suo
+*.user
+*.db
+*.ipch
+*.ilk
+*.obj
+*.exe
+*.pch
+*.log
+Programming Challenges/Doublet/.vs/Doublet/v14/.suo
+Programming Challenges/EditStepLadders/.vs/EditStepLadders/v14/.suo
+*.resx
+*.Cache
+*.cs
