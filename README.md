@@ -1,5 +1,6 @@
 ## This is for Coding skill UP !
-Programming Challenges - previous stutdy code ( backup, C++ )
+HackerRank_Baekjoon / Programming Challenges - updated previous stutdy code to backup (C++)
+
 
 ### Things to do
 Code reviewing about overall codes
