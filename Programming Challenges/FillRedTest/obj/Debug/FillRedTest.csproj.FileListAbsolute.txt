@@ -1,9 +1,0 @@
-C:\Users\PCcare\Desktop\Programming Challenges\FillRedTest\bin\Debug\FillRedTest.exe.config
-C:\Users\PCcare\Desktop\Programming Challenges\FillRedTest\bin\Debug\FillRedTest.exe
-C:\Users\PCcare\Desktop\Programming Challenges\FillRedTest\bin\Debug\FillRedTest.pdb
-C:\Users\PCcare\Desktop\Programming Challenges\FillRedTest\obj\Debug\FillRedTest.csprojResolveAssemblyReference.cache
-C:\Users\PCcare\Desktop\Programming Challenges\FillRedTest\obj\Debug\FillRedTest.Form1.resources
-C:\Users\PCcare\Desktop\Programming Challenges\FillRedTest\obj\Debug\FillRedTest.Properties.Resources.resources
-C:\Users\PCcare\Desktop\Programming Challenges\FillRedTest\obj\Debug\FillRedTest.csproj.GenerateResource.Cache
-C:\Users\PCcare\Desktop\Programming Challenges\FillRedTest\obj\Debug\FillRedTest.exe
-C:\Users\PCcare\Desktop\Programming Challenges\FillRedTest\obj\Debug\FillRedTest.pdb
