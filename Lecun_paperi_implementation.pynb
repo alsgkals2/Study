@@ -1,0 +1,109 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/alsgkals2/Study/blob/cpp/Lecun_paperi_implementation.pynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from google.colab import drive\n",
+        "drive.mount('/content/drive')"
+      ],
+      "metadata": {
+        "id": "lABX8ALWUhaG",
+        "outputId": "2d32f391-f110-43e8-c46e-87bc39a2c860",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Mounted at /content/drive\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import os\n",
+        "os.chdir('/content/drive/MyDrive/취업/허드슨에이아이_과제/개발직군_vision')"
+      ],
+      "metadata": {
+        "id": "fWVNFyqaVM17"
+      },
+      "execution_count": 2,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!python '3. run.py'"
+      ],
+      "metadata": {
+        "id": "npTsBjK3VUf4",
+        "outputId": "9809ac5a-f077-446a-d6eb-248732ed28c8",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "  File \"/content/drive/MyDrive/취업/허드슨에이아이_과제/개발직군_vision/3. run.py\", line 12\n",
+            "    BITMAP_PATH = #LeNet5 출력 계층(Output layer)의 비트맵(bitmap)은 Fig.3의 숫자 이미지 후처리한 png 파일 저장경로\n",
+            "                  ^\n",
+            "SyntaxError: invalid syntax\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n"
+      ],
+      "metadata": {
+        "id": "rLafEYCiVRHQ"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "ghB7em_tXMA6"
+      }
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Colaboratory에 오신 것을 환영합니다",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    },
+    "accelerator": "TPU",
+    "gpuClass": "standard"
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
